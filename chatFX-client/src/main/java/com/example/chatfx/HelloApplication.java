@@ -2,10 +2,7 @@ package com.example.chatfx;
 
 import com.example.chatfx.client.ClientSend;
 import javafx.application.Application;
-import javafx.event.Event;
-import javafx.event.EventHandler;
 import javafx.stage.Stage;
-import javafx.stage.WindowEvent;
 
 import java.io.IOException;
 

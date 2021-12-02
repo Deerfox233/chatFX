@@ -1,6 +1,5 @@
 package com.example.chatfx.db;
 
-
 import java.sql.*;
 
 public class DBConnection {
